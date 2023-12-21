@@ -117,13 +117,14 @@ include:pptv
 include:qingtingfm
 include:sfacg
 include:taomee
-include:taptap
 include:tgbus
 include:tiancity
 include:u17
 include:vgtime
+include:xd
 include:xiaohongshu
 include:ximalaya
+include:yamibo
 include:youku
 include:yy
 include:zhanqi
@@ -267,8 +268,10 @@ include:baidu
 include:bluepoch
 include:bytedance
 include:didi
+include:dji
 include:huawei
 include:iflytek
+include:jushuitan
 include:kingsoft
 include:meizu
 include:netease
@@ -352,6 +355,7 @@ include:bjyouth
 include:sumkoo
 ## 知藏（北京）数据技术有限公司 (京ICP备19038827号)
 zzdtec.com
+
 
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
